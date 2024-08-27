@@ -1,2 +1,2 @@
 # gralliry.github.io
-gralliry的个人主义
+gralliry的个人主页
