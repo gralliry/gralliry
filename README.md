@@ -4,21 +4,21 @@
   <a href="https://forye.top">
     <img src="https://img.shields.io/badge/Website-forye.top-red?style=flat-square">
   </a>  
-  <a href="https://gkos.dev/Resume.pdf">
+<!--   <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-  </a>  
-  <a href="https://www.linkedin.com/in/gkos/">
+  </a>   -->
+<!--   <a href="https://www.linkedin.com/in/gkos/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-  </a>
+  </a> -->
   <a href="mailto:aiccyxixy@163.com">
       <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+<!--   <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
       <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-  </a>
-  <a href="https://pypi.org/user/drkostas/">
+  </a> -->
+<!--   <a href="https://pypi.org/user/drkostas/">
       <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-  </a>
+  </a> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=gralliry&show_icons=true&locale=cn">
 </p>
@@ -38,13 +38,3 @@
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gralliry&theme=xcode">
-
-## 🖥️ 开源项目
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gralliry&repo=Adversarial-Attack-Generation-Techniques" alt="Repo 1" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gralliry&repo=Pytorch-NN-Model-Design" alt="Repo 2" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gralliry&repo=Gray2Color" alt="Repo 3" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gralliry&repo=pyutils" alt="Repo 4" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gralliry&repo=scau-cn-utils" alt="Repo 5" style="margin: 5px;">
-</div>
