@@ -29,7 +29,7 @@
 
 ## 关于我 
 
-在读学生，爱宅党，HP粉，主流Python，略懂Java、C/C++、Go、PHP、前端三件套+Vue2和微信小程序、CV对抗领域，OpenWRT开发者，热爱网络工程和Linux运维，平时写一些小项目，目标是成为AI架构师or网络工程师。
+在读学生，爱宅党，HP粉，主流Python，略懂Java、C/C++、Go、PHP、前端三件套+Vue2和微信小程序、CV对抗领域，OpenWRT开发者，热爱网络工程和Linux运维，平时写一些小项目。
 
 ## 统计数据
 
