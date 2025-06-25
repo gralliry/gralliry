@@ -41,14 +41,9 @@ Reading students, a homebody, a HP fan, primarily uses Python, a little understa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gralliry&theme=xcode">
 
 ## Donations
-#### BTC(Legacy)
+#### BTC
 ```
-1HNUhw2XsKE7kpESh9b63PLA6cXmLSVw8m
-```
-
-#### BTC(Segwit)
-```
-3CnbzSM2g1FTs49QWvKy1t9pKAYMGjHbZJ
+1MyNYSo52zEp25VcPpcf8CzXmUph4UoABL
 ```
 
 #### ETH
