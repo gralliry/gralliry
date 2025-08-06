@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&size=30&duration=3000&pause=1000&multiline=true&repeat=false&width=1200&height=120&lines=Aymeric+Garcia;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Student+%7C+%F0%9F%92%BB%EF%B8%8FTechie+%7C+%E2%9C%88%EF%B8%8FCityWalker+%7C+%F0%9F%A7%81Gourmet;AI+Architect+%7C+Network+Architect+%7C+CV+%7C+AI+%7C+Adversarial+Defend" alt="Typing SVG" /></a>
   <br/>
-  <a href="https://forye.top">
-    <img src="https://img.shields.io/badge/Website-forye.top-red?style=flat-square">
-  </a>  
+<!--   <a href="https://{{domain}}">
+    <img src="https://img.shields.io/badge/Website-{{domain}}-red?style=flat-square">
+  </a>   -->
 <!--   <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
   </a>   -->
