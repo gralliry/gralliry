@@ -34,7 +34,7 @@ Reading students, a homebody, a HP fan, primarily uses Python, a little understa
 ## Overview
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gralliry&locale=en">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gralliry&locale=en"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gralliry" />
 </div>
 
