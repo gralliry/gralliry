@@ -1,15 +1,17 @@
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&size=30&duration=3000&pause=1000&multiline=true&repeat=false&width=1200&height=120&lines=Aymeric+Garcia;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Student+%7C+%F0%9F%92%BB%EF%B8%8FTechie+%7C+%E2%9C%88%EF%B8%8FCityWalker+%7C+%F0%9F%A7%81Gourmet;AI+Architect+%7C+Network+Architect+%7C+CV+%7C+AI+%7C+Adversarial+Defend" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&size=30&duration=3000&pause=1000&multiline=true&repeat=false&width=1200&height=120&lines=Aymeric+Garcia;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Student+%7C+%F0%9F%92%BB%EF%B8%8FTechie+%7C+%E2%9C%88%EF%B8%8FCityWalker+%7C+%F0%9F%A7%81Gourmet;AI+Architect+%7C+Network+Architect+%7C+CV+%7C+AI+%7C+Adversarial+Defend" alt="Typing SVG" />
+  </a>
   <br/>
   <a href="mailto:aiccyxixy@163.com">
       <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <br/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=gralliry&show_icons=true&locale=en"> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&size=30&duration=3000&pause=1000&width=1200&height=120&lines=Everything+for+future.+For+future+of+everything.;Welcome+to+my+personal+page!;Have+a+nice+code!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&size=30&duration=3000&pause=1000&width=1200&height=120&lines=Everything+for+future.+For+future+of+everything.;Welcome+to+my+personal+page!;Have+a+nice+code!" alt="Typing SVG" />
+  </a>
 </p>
-
-
 
 ## About Me
 
@@ -25,12 +27,15 @@ Reading students, a homebody, a HP fan, primarily uses Python, a little understa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gralliry&theme=xcode">
 
 ## Donations
+
 #### BTC
+
 ```
 1MyNYSo52zEp25VcPpcf8CzXmUph4UoABL
 ```
 
 #### ETH
+
 ```
 0x998B7146528856D1EEc88EDDa9272B32347Cb53D
 ```
