@@ -16,13 +16,3 @@
 ## About Me
 
 Reading students, primarily uses Python, Java, C/C++, Go, PHP, Vue3 and wechat small programs, CV confrontation field, OpenWRT developers, network engineering, Linux operation and maintenance.
-
-## Overview
-
-<div style="display: flex; justify-content: space-between;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gralliry&locale=en"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gralliry" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gralliry&theme=xcode">
-
