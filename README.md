@@ -15,7 +15,7 @@
 
 ## About Me
 
-Reading students, a homebody, a HP fan, primarily uses Python, a little understanding of Java, C/C++, Go, PHP, front-end three-piece +Vue2 and wechat small programs, CV confrontation field, OpenWRT developers, love network engineering and Linux operation and maintenance, usually write some small projects.
+Reading students, primarily uses Python, Java, C/C++, Go, PHP, Vue3 and wechat small programs, CV confrontation field, OpenWRT developers, network engineering, Linux operation and maintenance.
 
 ## Overview
 
@@ -26,16 +26,3 @@ Reading students, a homebody, a HP fan, primarily uses Python, a little understa
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gralliry&theme=xcode">
 
-## Donations
-
-#### BTC
-
-```
-1MyNYSo52zEp25VcPpcf8CzXmUph4UoABL
-```
-
-#### ETH
-
-```
-0x998B7146528856D1EEc88EDDa9272B32347Cb53D
-```
